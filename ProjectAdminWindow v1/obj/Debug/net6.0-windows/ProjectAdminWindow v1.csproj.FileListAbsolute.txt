@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\ProjectAdminWindow v1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\User\source\repos\ProjectAdminWindow v1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\User\source\repos\ProjectAdminWindow v1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\User\source\repos\ProjectAdminWindow v1\obj\Debug\net6.0-windows\ProjectAdminWindow v1_MarkupCompile.cache
+C:\Users\User\source\repos\ProjectAdminWindow v1\obj\Debug\net6.0-windows\ProjectAdminWindow v1.g.resources
+C:\Users\User\source\repos\ProjectAdminWindow v1\obj\Debug\net6.0-windows\ProjectAdminWindow v1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ProjectAdminWindow v1\obj\Debug\net6.0-windows\ProjectAdminWindow v1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ProjectAdminWindow v1\obj\Debug\net6.0-windows\ProjectAdminWindow v1.AssemblyInfo.cs
+C:\Users\User\source\repos\ProjectAdminWindow v1\obj\Debug\net6.0-windows\ProjectAdminWindow v1.csproj.CoreCompileInputs.cache
